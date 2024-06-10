@@ -140,7 +140,7 @@ Follow `generateCode`, it's turn into `/node_modules/pug-code-gen/index.js`. The
 
 ![pug_generator0.png](img/pug_generator0.png)
 Follow `visit()`
-![pug_generator1.png](pug_generator1.png)
+![pug_generator1.png](img/pug_generator1.png)
 
 In `visit()`, we could see that if `node.line` exist (not validated if integer or not), then  push the code `pug_debug_line = node.line`.
 
